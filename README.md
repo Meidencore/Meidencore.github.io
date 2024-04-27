@@ -1,6 +1,6 @@
 # meidencore.github.io
 - 👋 Hi, I’m @meidencore
-- 👀 I’m a Web Development
+- 👀 I’m a Web Developer
 - 🌱 I’m currently working with React.JS and Express.JS
 - 💞️ I’m looking to collaborate on any Web development project for starters
 - 📫 How to reach me danieleverdale@gmail.com
